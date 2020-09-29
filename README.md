@@ -1,6 +1,5 @@
 # produk_arkademy
-![home_page](https://user-images.githubusercontent.com/55839592/94265070-173d6980-ff62-11ea-9ed5-6f53458ad952.PNG)
-![home_search](https://user-images.githubusercontent.com/55839592/94265073-17d60000-ff62-11ea-810b-ae3b62bcc4b5.PNG)
-![add_produk](https://user-images.githubusercontent.com/55839592/94265057-13a9e280-ff62-11ea-87da-874825e3e84f.PNG)
-![edit_produk](https://user-images.githubusercontent.com/55839592/94265062-1573a600-ff62-11ea-8e54-e19a2af96400.PNG)
-![hapus_produk](https://user-images.githubusercontent.com/55839592/94265066-160c3c80-ff62-11ea-96bc-941e17db2371.PNG)
+![home](https://user-images.githubusercontent.com/55839592/94525190-e610b200-025d-11eb-8e38-1df1bbbc304e.PNG)
+![add](https://user-images.githubusercontent.com/55839592/94525180-e3ae5800-025d-11eb-9a45-a9ad32411f9c.PNG)
+![edit](https://user-images.githubusercontent.com/55839592/94525187-e610b200-025d-11eb-956b-e00312c8e45a.PNG)
+![delete](https://user-images.githubusercontent.com/55839592/94525186-e5781b80-025d-11eb-9529-0dfeeb91c9e3.PNG)

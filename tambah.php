@@ -64,7 +64,7 @@
         <div class='container'>
             <div class='row mt-2'>
                 <div class='col-md-6'>
-                    User added successfully. <a  href='index.php'>View Users</a>
+                    Produk added successfully. <a  href='index.php'>View Users</a>
                 </div>
             </div>
         </div> 
